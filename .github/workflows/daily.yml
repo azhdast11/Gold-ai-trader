@@ -1,5 +1,4 @@
 name: Daily Gold Analysis
-
 on:
   schedule:
     - cron: "30 5 * * *"
